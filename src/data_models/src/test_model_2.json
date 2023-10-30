@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TestModelTwo",
+    "memberVariables": {
+      "something": {
+        "type": [
+          "boolean",
+          "undefined"
+        ],
+        "modifier": "public"
+      }
+    }
+  }
+]

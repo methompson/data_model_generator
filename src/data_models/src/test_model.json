@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TestModel",
+    "memberVariables": {
+      "test": {
+        "type": [
+          "number",
+          "undefined"
+        ],
+        "modifier": "public"
+      }
+    }
+  },
+  {
+    "name": "FooModel",
+    "memberVariables": {
+      "variable": {
+        "type": [
+          "string",
+          "undefined"
+        ],
+        "modifier": "protected"
+      },
+      "errorVar": {
+        "type": [
+          "undefined"
+        ],
+        "modifier": "protected"
+      },
+      "testVar": {
+        "modifier": "protected",
+        "type": [
+          "TestModel"
+        ]
+      }
+    }
+  }
+]

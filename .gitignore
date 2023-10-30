@@ -1,0 +1,4 @@
+dist
+*.g.ts
+*.g.test.ts
+node_modules
